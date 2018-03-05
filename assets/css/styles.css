@@ -80,7 +80,7 @@ section p {
 /* HEADER STYLES */
 
 header {
-    background-color: rgb(108, 109, 116);
+    background-color: rgb(28, 48, 65);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -218,6 +218,9 @@ header nav li {
 
 .packages .grid li i {
     color: #1b34c2;
+}
+.packages .grid li i:hover {
+    
 }
 .packages .grid li h4 {
     font-size: 30px;
